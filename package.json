@@ -6,7 +6,7 @@
   "homepage": "https://ing-jorge2022.github.io/IceCream-project",
   "scripts": {
     "dev": "parcel src/*.html --open --port 1234",
-    "build": "parcel build src/*.html --public-url /IceCream-project/"
+    "build": "parcel build src/*.html --public-url /IceCream-project"
   },
   "repository": {
     "type": "git",
